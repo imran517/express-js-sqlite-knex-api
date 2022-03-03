@@ -1,0 +1,21 @@
+{
+  "name": "express-js-sqlite-knex-api",
+  "version": "1.0.0",
+  "description": "express-js-sqlite-knex-api",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imran517/express-js-sqlite-knex-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Imran",
+  "license": "MIT",
+  "dependencies": {
+    "@vscode/sqlite3": "^5.0.7",
+    "express": "^4.17.2",
+    "knex": "^1.0.3",
+    "sqlite3": "^4.2.0"
+  }
+}
